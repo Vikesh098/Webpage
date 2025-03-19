@@ -1,0 +1,229 @@
+.wel{
+    margin-left: 49px;
+    margin-bottom: -173px;
+
+}
+.one{
+    margin-left: 53px;
+    width: 200px;
+}
+.manage{
+    font-size: 29px;
+    color: white;
+    margin-left: 68px;
+}
+.coll{
+    background-color: blue;
+    height: 100vh;
+}
+.boy{
+    font-size: 29px;
+    color: white;
+    margin-left: 46px;
+}
+.top{
+    margin-left: 62px;
+    margin-top: 85px;
+}
+.alli{
+    display: flex;
+    flex-direction: row;
+}
+.fir{
+    height: 8vh;
+    width: 197px;
+    margin-top: 30px;
+    margin-left: -19px;
+}
+.sec{
+    height: 8vh;
+    width: 197px;
+    margin-top: 29px;
+    margin-left: 26px;
+
+}
+.navv{
+    margin-left: 2px;
+    
+    width: 190px;
+    height: 10vh;
+    margin-top: 28px;
+
+}
+.m{
+    font-size: 15px;
+    opacity: 0.4;
+    margin-left: 7px;
+}
+.b{
+    font-size: 21px;
+    margin-left: 9px;
+}
+
+.las{
+    font-size: 15px;
+    opacity: 0.4;
+    margin-left: 7px;
+    margin-top: 27px;
+
+}
+
+
+.nva{
+    
+    display: flex;
+        flex-direction: column;
+        width: 188px;
+        height: 14vh;
+        margin-left: 30px;
+}
+
+.mb{
+    border: 1px solid black;
+    margin-top: 2px;
+    width: 174px;
+    margin-left: 0px;
+    height: 4vh;
+}
+  .dl{
+    font-size: 20px;
+    margin-top: 10px;
+  }  
+    .ll{
+        font-size: 20px;
+         margin-top: 10px;
+    }                
+    .bm{
+        border: 1px solid black;
+    margin-top: 42px;
+    width: 174px;
+    margin-left: -86px;
+    height: 4vh;
+    }                
+    .disk{
+        margin-left: 3px;
+    }                                                  
+    .naam{
+       
+        display: flex;
+    flex-direction: column;
+    margin-left: 210px;
+    margin-top: -70px;
+    }
+    .cc{
+        color: rgb(6, 6, 6);
+    width: 175px;
+    margin-top: 2px;
+    border: 1px solid black;
+    }
+    .zl{
+        font-size: 20px;
+        margin-top: 10px;
+    }
+    .lz{
+        border: 1px solid black;
+        margin-top: 2px;
+        width: 174px;
+        margin-left: 0px;
+        height: 4vh;
+    }
+    .tri{
+        margin-top: 3px;
+    }
+    .ma{
+        font-size: 17px;
+        margin-top: 10px;
+    }
+    .am{
+        border: 1px solid black;
+        margin-top: 4px;
+        width: 174px;
+        margin-left: 0px;
+        height: 4vh;
+    }
+    .four{
+        display: flex;
+        flex-direction: column;
+        margin-left: 210px;
+        margin-top: -70px;
+    }
+    .five{
+        margin-top: 4px;
+       
+        width: 178px;
+    }
+    
+    .gp{
+        border: 1px solid black;
+        margin-top: -17px;
+        width: 174px;
+        margin-left: 0px;
+        height: 4vh;
+    }
+    .bv{
+        font-size: 18px;
+        margin-top: -11px;
+
+    }
+      .six{
+        display: flex;
+        flex-direction: column;
+        margin-left: 210px;
+        margin-top: -70px;
+      }
+      .go{
+       
+        margin-top: 19px;
+        width: 174px;
+        margin-left: 0px;
+        height: 4vh;
+      }
+      .og{
+        font-size: 17px;
+    height: 30px;
+    width: 176px;
+    margin-top: -7px;
+      }
+      .hos{
+        font-size: 20px;
+        margin-top: 16px;
+        
+      }
+      .soh{
+        width: 386px;
+    height: 6vh;
+    margin-top: 6px;
+      }
+      .sev{
+        display: flex;
+        flex-direction: column;
+      }
+      .ei{
+display: flex;
+flex-direction: column;
+      }
+      .do{
+        font-size: 19px;
+    margin-bottom: -6px;
+    margin-left: 21px;
+      }
+
+      .od{
+        width: 13px;
+        height: 2vh;
+        margin-top: -13px;
+    }
+    .done{
+        margin-left: 1px;
+    display: flex;
+    }
+    .don{
+font-size: 30px;
+    }
+.nod{
+    font-size: 20px;
+    margin-top: 19px;
+    width: 148px;
+    height: 6vh;
+    margin-left: 36px;
+}

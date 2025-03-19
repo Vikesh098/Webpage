@@ -1,0 +1,97 @@
+.colour{
+background-color: rgb(43, 52, 226);
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+height: 100vh;
+}
+.wel{
+    margin-left: 75px;
+    margin-bottom: -173px;
+}
+.one{
+    margin-left: 75px;
+    width: 200px;
+}
+.ee{
+    margin-left: 54px;
+    margin-bottom: -50px;
+}
+.manage{
+    font-size: 29px;
+    color: white;
+    margin-left: 68px;
+}
+.sign{
+    color: black;
+    margin-top: 80px;
+    margin-left: 38px;
+}
+.movepa{
+    color: grey;
+    margin-left: 38px;
+    margin-top: 11px;
+
+}
+.line{
+    margin-left: 20px;
+    margin-bottom: -259px;
+    width: 344px;
+}
+.ta{
+    border: 2px solid grey;
+    border-collapse: collapse;
+    display: flex
+;
+    flex-direction: column;
+    height: 17vh;
+    width: 300px;
+    margin-bottom: 1rem;
+    color: #212529;
+    margin-top: 81px;
+    padding: revert-layer;
+    vertical-align: top;
+    border-color: #dee2e6;
+
+}
+.star{
+    margin-left: 4px;
+    margin-top: -25px;
+}
+.mm{
+margin-left: 4px;
+margin-top: -25px;
+
+}
+.cco{
+    color: rgb(8 8 8);
+    width: 299px;
+}
+.pss{
+    width: 299px;
+    color: black;
+}
+.mai{
+    color: grey;
+}
+.wor{
+    color: grey;
+}
+.get{
+
+    color: blue;
+    margin-left: 204px;
+    margin-top: 35px;
+    font-size: 12px;
+}
+.rad{
+    font-size: 30px;
+    margin-left: -280px;
+    margin-top: -17px;
+}
+.me{
+    font-size: 15px;
+    margin-top: -24px;
+    margin-left: 15px;
+}
+.zz{
+    margin-left: 67px;
+}

@@ -1,0 +1,111 @@
+.top{
+    width: 1537px;
+    margin-left: -38px
+}
+.sec{
+    margin-left: 109px;
+    margin-top: -93px;
+
+}
+.pic{
+    width: 77px;
+    height: 68px;
+    margin-left: 5px;
+    margin-top: 9px;
+}
+.tab1{
+    background-color: blue;
+    width: 360px;
+    height: 19vh;
+    padding: 6px;
+    margin-left: 45px;
+    margin-top: -634px;
+}
+.ali{
+    display: flex
+    ;
+        flex-direction: column;
+        border: 1px solid black;
+        width: 317px;
+        height: 278px;
+        gap: -16px;
+        padding: 27px;
+        text-align: center;
+        margin-top: 7px;
+        margin-left: 45px;
+}
+.sp{
+    margin-top: 18px;
+    margin-left: -22px;
+}
+.line{
+    width: 369px;
+    margin-left: -27px;
+}
+.bz{
+    background-image: url(./image/image 131.png);
+    height: 646px;
+    width: 1538px;
+}
+.xx{
+    margin-left: 480px;
+    display: flex
+;
+    flex-direction: row;
+    gap: 44px;
+    font-size: 14px;
+   
+}
+.ww{
+    margin-left: 476px;
+    margin-top: -475px;
+}
+.en{
+    width: 473px;
+    margin-top: -1px;
+    height: 39px;
+    border: 1px solid;
+}
+
+.wa{
+    width: 485px;
+    height: 39px;
+    border: 1px solid;
+    margin-top: 1px;
+
+}
+.box3{
+    display: flex
+;
+    flex-direction: column;
+    margin-left: 480px;
+    margin-top: 52px;
+    gap: 5px;
+}
+.wq{
+    font-size: 20px;
+    margin-left: 479px;
+    margin-top: 1px;
+}
+.op{
+    margin-top: -27px;
+    font-size: 14px;
+    width: 249px;
+    height: 39px;
+    border: 1px solid;
+
+}
+.qq{
+    margin-top: -113px;
+    text-align: center;
+    margin-left: 150px;
+    font-size: 18px;
+}
+.rou{
+    margin-left: 70px;
+}
+.nn{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+}

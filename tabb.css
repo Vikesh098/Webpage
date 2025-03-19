@@ -1,0 +1,33 @@
+table{
+    height: 500px;
+    width: 700px;
+    
+    }
+table,th,td{
+border:2px solid rgb(139, 19, 27);
+border-collapse: collapse;
+
+}
+th{
+    background-color: rgb(255, 255, 0);
+    background-image: url(image/istockphoto-177427917-612x612.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-style: unset;
+}
+td{
+    background-color: rgb(181, 14, 14);
+    font-style: inherit;
+    text-align: center;
+
+}
+
+body{
+    margin-left: 500px;
+    margin-top: 100px;
+
+}
+
+
+
+

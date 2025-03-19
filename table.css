@@ -1,0 +1,17 @@
+table {
+    height: 200px;
+    width: 400px;
+}
+
+table , th , td {
+    border: 2px  solid ;
+    border-collapse: collapse;
+}
+
+th{
+    background-color: aquamarine;
+}
+
+td{
+    background-color: rgb(185, 129, 129);
+}

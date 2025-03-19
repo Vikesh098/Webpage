@@ -1,0 +1,28 @@
+.n{
+    font-style: oblique;
+    color: black;
+    background-color: antiquewhite;
+}
+.u{
+    font-style: initial;
+    color: blue;
+    background-color: orange;
+
+}
+.a{
+    font-style: inherit;
+    color: blueviolet;
+    background-color: brown;
+}
+
+ul li{
+    
+    color: black;
+    list-style: none;
+}
+dl dt{
+color: maroon;
+}
+dl .indd{
+background-color: aquamarine;
+}

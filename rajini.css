@@ -1,0 +1,46 @@
+.h{
+    color:rgb(230, 237, 230);
+    background-color: black;
+    font-style: italic;
+    text-align: center;
+   
+}
+.para{
+     color: rgb(244, 240, 240);
+     font-style: unset;
+     font-size: 25px;
+}
+body{
+    background-image:url("image/20230412_064454.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+        background-size: cover;
+     height: unset;
+}
+.c{
+    list-style-type: none;
+}
+.b{
+color: rgb(165, 42, 42);
+font-size: 20px;
+}
+.a{
+    color: rgb(128, 38, 0);
+    font-size: 20px;
+}
+
+table,th,td{
+    border: 2px solid rgb(193, 179, 245);
+    border-collapse: collapse;
+}
+.cc{
+    color: black;
+    background-color: azure;
+}
+.dii{
+    margin-left: 600px;
+border: 10px solid orchid;
+width: 300px;
+padding: 10px;
+
+}

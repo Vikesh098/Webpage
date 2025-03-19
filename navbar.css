@@ -1,0 +1,31 @@
+.ff{
+    
+    display: flex;
+    justify-content: space-around;
+    background-color: darkgoldenrod;
+    padding: 20px;
+    border: solid darkblue;
+}
+.gg{
+    display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        height: 87vh;
+        background-color: darkcyan;
+        width: 118px;
+        text-align: center;
+
+
+
+}
+.dd{
+text-align: center;
+margin-left: 30px;
+margin-bottom: 40px;
+justify-content: space-between;
+}
+
+
+.wrapp{
+    display: flex;
+}
